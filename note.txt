@@ -17,3 +17,14 @@ git push origin master: Đẩy những thay đổi từ local lên remote
 Lưu ý Từ lần thứ với dự án này: git add , git commit, git push
 
 git clone: copy dự án từ remote về local
+git pull: kéo dữ liệu mới nhất về dự án
+
+==========
+
+Tạo 3 Folder con, mỗi folder là dư án đẩy lên 3 repo trên github (Luyện tập ở mỗi dự án là đẩy code lên 3 lần)
+Sau khi xong thì nộp slack như hướng dẫn
+
+============
+HTML: Tất cả các loại input và button
+Tìm hiểu về CSS là gì ? cách sử dụng ?
+Một vài lệnh CSS trang trí cơ bản: color, background, font-size, image border, margin,....
